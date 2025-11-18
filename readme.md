@@ -8,10 +8,10 @@ A fully functional Multi-Hop Retrieval-Augmented Generation (RAG) system capable
 ![Demo Query](pic2.png)
 
 ### Example Query
-![Demo Query](pic3.png)
+![Demo Query](pic1.png)
 
 ### Retrieval Results
-![Results](pic1.png)
+![Results](pic3.png)
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
