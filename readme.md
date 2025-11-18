@@ -107,11 +107,9 @@ Example: "Who is the director of the film that featured the character named Dast
 ```
 multi_hop_rag/
 ├── rag.py                 # Main RAG system implementation
-├── download_dataset.py    # Script to download HotpotQA dataset
 ├── requirements.txt       # Python dependencies
-├── evaluation.py          # Evaluation scripts and metrics
 ├── README.md             # This file
-└── data/                 # Dataset directory (created after download)
+
 ```
 
 ## 🔧 Configuration
